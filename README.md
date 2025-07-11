@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **Node.js and Express to build full-stack applications**
 
-- 👨‍💻 All of my projects are available at [www.linkedin](www.linkedin.com/in/roniseikh)
+- 👨‍💻 All of my projects are available at [linkedin](www.linkedin.com/in/roniseikh)
 
 - 📫 How to reach me **roni.seikh.softwareeng@gmail.com**
-
-- 📫 How to reach me **[Email](roni.seikh.softwareeng@gmail.com)**
 
 - ⚡ Fun fact **I think I am funny**
 
